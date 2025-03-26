@@ -2,12 +2,6 @@
 
 name: 🔄 Sync Workflow
 
-{
-  "remoteEnv": {
-    "TZ": "Europe/London"
-  }
-}
-
 # Controls when the action will run.
 on:
   workflow_dispatch:
